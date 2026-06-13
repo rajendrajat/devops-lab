@@ -23,7 +23,7 @@
 
 ## 📝 Guides & Writeups
 
-- [🌐 Setting Up an HTTP Server on Windows](./networking/http-server-windows.md)
+- [🌐 Setting Up an HTTP Server on Windows](./networking/http-server-guide.md)
 - [🐧 Installing WSL2 on Windows 11](./wsl/wsl2-setup.md)
 - *(more coming — adding weekly)*
 
@@ -33,16 +33,18 @@
 
 | Tool | Description | Link |
 |------|-------------|------|
-| NetLog Analyzer | Parse Chrome/Edge NetLog JSON files | [View](https://rajendrajat.github.io/browser-tools/) |
-| ETL Trace Analyzer | Analyze Edge ETL trace logs | [View](https://rajendrajat.github.io/browser-tools/) |
-| WebTrace Analyzer | Fiddler-clone — SAZ/HAR/ETL support | [View](https://rajendrajat.github.io/browser-tools/) |
-| Endpoint Reachability | Test endpoint connectivity in browser | [View](https://rajendrajat.github.io/browser-tools/) |
+| NetLog Analyzer | Parse Chrome/Edge NetLog JSON files | [View](https://rajendrajat.github.io/Browser-tools/netlog-analyzer.html) |
+| SAZ Analyzer Pro | Analyze Fiddler `.saz` trace files | [View](https://rajendrajat.github.io/Browser-tools/SAZ_Analyzer.html) |
+| MIPLog Analyzer | Parse Edge MIP & profile sync logs | [View](https://rajendrajat.github.io/Browser-tools/MIPLog_Analyzer.html) |
+| Endpoint Reachability | Test endpoint connectivity in browser | [View](https://rajendrajat.github.io/Browser-tools/Endpoint_Reachability_Checker.html) |
+
+👉 **Full collection:** [rajendrajat/Browser-tools](https://github.com/rajendrajat/Browser-tools)
 
 ---
 
 ## 📅 Learning Progress
 
-Currently on: **90 Days of DevOps — Josh Batch 10**  
+Currently on: **90 Days of DevOps**  
 Focus areas this week: `Linux` → `Docker` → `Kubernetes`
 
 ---
